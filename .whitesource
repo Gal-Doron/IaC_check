@@ -8,6 +8,7 @@
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
+    "iacCheckRunConclusionLevel": "failure",
     "displayMode": "diff"
   },
   "issueSettings": {
